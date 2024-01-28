@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"EN python, tengo un dataframe con una columna llamada content","md5":"17edc9425ad06a69bf5d2da0dc4696dd"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"EN python, tengo un dataframe con una columna llamada content","md5":"17edc9425ad06a69bf5d2da0dc4696dd"},{"prompt":"quiero obtener la maxima longitud de esa columna","md5":"c96bb5fe668a96c616c3d52d0a2a46c5"}]}
